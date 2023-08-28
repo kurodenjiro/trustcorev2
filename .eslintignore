@@ -1,0 +1,16 @@
+src/pages/*.tsx
+src/pages/profile/*.tsx
+src/pages/space/*.tsx
+src/pages/space/create/*.tsx
+src/pages/thread/*.tsx
+src/pages/thread/create/*.tsx
+src/components/Button/ConnectButton/*.tsx
+src/components/Button/*.tsx
+src/components/Button/*.ts
+src/components/Button/ScrollTop/*.tsx
+src/components/Container/*.tsx
+src/components/Items/*.tsx
+src/components/Items/*.ts
+src/components/Items/Spaces/*.tsx
+src/components/Items/Threads/*.tsx
+src/components/loading/*.tsx
